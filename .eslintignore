@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vscode/
+coverage/
+*.DS_Store
+src/serviceWorker.js
+build/
+api/
